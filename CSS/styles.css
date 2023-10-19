@@ -1,0 +1,14 @@
+#container{
+    display:grid;
+    border: 2px solid black;
+    grid-auto-columns: 25% 25% 25% 25;
+    grid-auto-rows: 25% 25% 25% 25%;
+
+
+
+}
+.item{
+}
+.item1{
+    
+}
